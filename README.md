@@ -34,7 +34,7 @@ Aqui estão algumas das principais tecnologias, linguagens e ferramentas com as 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=celsovssilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsovssilva&layout=compact&theme=radical&langs_count=8" alt="Linguagens Mais Usadas" />
 </p>
 
